@@ -1,0 +1,64 @@
+﻿---
+ID: "da8c4d05-9240-4f51-b44c-c9ac9610a9ca"
+Parent: "cfeb105d-1cc1-4efb-aaa1-4dd9032ea721"
+Template: "968c83cb-24df-42cc-a390-02d247d9b5fc"
+Path: /sitecore/content/Skate Park/Skate Park/Presentation/Page Designs
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
+  Hint: TemplatesMapping
+  Value: "%7bF5605B3C-9D02-4583-BEF4-42641E3B5F4B%7d%3d%257BB0CF5568-B38C-4E77-A9F6-116B81AC45C5%257D%26%7bB5E486B3-B522-46F7-A8C9-FAF51C46D124%7d%3d%257BB0CF5568-B38C-4E77-A9F6-116B81AC45C5%257D%26%7bAB1B6E9E-F3BC-4630-A8CD-CC8747CC830C%7d%3d%257BB0CF5568-B38C-4E77-A9F6-116B81AC45C5%257D%26%7b08A61982-3BCE-416D-AACD-F8B7EB65AD22%7d%3d%257BB0CF5568-B38C-4E77-A9F6-116B81AC45C5%257D%26%7b485CA85F-6DD4-4AC3-8734-1FA1F7362846%7d%3d%257BB0CF5568-B38C-4E77-A9F6-116B81AC45C5%257D"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2EA756FA-AED6-4599-83B7-36FEFE229B31}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231219T164844Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\eastmondr@bennettjones.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\eastmondr@bennettjones.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c13d644e-6269-4c43-952f-986d4b583a79"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\eastmondr@bennettjones.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231220T144518Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231219T164844Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\eastmondr@bennettjones.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\eastmondr@bennettjones.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b70bc039-1d37-4d6e-90e2-4c1cd432b88f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\eastmondr@bennettjones.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231219T174914Z

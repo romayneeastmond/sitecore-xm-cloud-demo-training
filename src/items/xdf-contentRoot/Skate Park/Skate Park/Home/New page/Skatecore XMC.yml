@@ -1,0 +1,37 @@
+﻿---
+ID: "f9104257-bfa3-4491-a328-97fd76a884cc"
+Parent: "46517ba5-8def-4843-9c13-6ab6d4cbad67"
+Template: "ab1b6e9e-f3bc-4630-a8cd-cc8747cc830c"
+Path: /sitecore/content/Skate Park/Skate Park/Home/New page/Skatecore XMC
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{CB693F67-5CBD-4E77-8FDA-4783221E648A}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "08bad915-3890-4def-8505-4c09177b712b"
+      Hint: SKU
+      Value: "{F9104257-BFA3-4491-A328-97FD76A884CC}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231219T202526Z
+    - ID: "4c88aef3-0451-491e-9f3d-3a42fb824386"
+      Hint: Title
+      Value: Skatecore XMC
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Skatecore XMC
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b2643e84-897c-4cf4-9cbf-eecb8e4d49d4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\eastmondr@bennettjones.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231219T202526Z

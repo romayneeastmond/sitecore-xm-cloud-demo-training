@@ -1,0 +1,78 @@
+﻿---
+ID: "24f8223f-2cdd-4d5f-b3e4-0792066d3a04"
+Parent: "df1b93bb-6414-4dd8-bc3c-a1019d683c30"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/TAC/Events/Presentation/Partial Designs/Event Details Main
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "event-details-main"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{70591F34-7DAC-4027-9105-1A3BC91FDF63}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BD7470F8-8557-461E-B0CD-EE0321641251}"
+              p:before="*"
+              s:id="{A8318A57-0E46-4773-A7C6-C753FD8944CC}"
+              s:par="GridParameters={7465D855-992E-4DC2-9855-A03250DFA74B}&amp;FieldNames&amp;Styles&amp;CacheClearingBehavior=Clear on publish&amp;RenderingIdentifier&amp;CSSStyles"
+              s:ph="/headless-main/sxa-main/container-1/column-2-1" />
+            <r
+              uid="{981E5C0B-5C6A-4044-A8E7-F31EA1774177}"
+              p:after="r[@uid='{BD7470F8-8557-461E-B0CD-EE0321641251}']"
+              s:id="{E9084D3B-DD7A-4370-BECF-A829464AFF4A}"
+              s:par="GridParameters={7465D855-992E-4DC2-9855-A03250DFA74B}&amp;FieldNames&amp;Styles&amp;CacheClearingBehavior=Clear on publish&amp;RenderingIdentifier&amp;CSSStyles"
+              s:ph="/headless-main/sxa-main/container-1/column-2-1" />
+            <r
+              uid="{B9B63527-33FD-4107-A6CE-E5ED1043F4FE}"
+              p:after="r[@uid='{981E5C0B-5C6A-4044-A8E7-F31EA1774177}']"
+              s:id="{7F3BDBED-9A12-4103-98B5-6A5EA1391A5F}"
+              s:par="GridParameters={7465D855-992E-4DC2-9855-A03250DFA74B}&amp;FieldNames&amp;Styles&amp;CacheClearingBehavior=Clear on publish&amp;RenderingIdentifier&amp;CSSStyles"
+              s:ph="/headless-main/sxa-main/container-1" />
+            <r
+              uid="{BD1A9C64-E53F-4CB6-AF97-9400399CA292}"
+              p:after="*[1=2]"
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B9B4A68D5-57DC-4137-B953-621B38EECC68%7D&amp;ColumnWidth2=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B436C37A1-CC36-4176-97C0-F1C48104E601%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="/headless-main/sxa-main/container-1" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231221T164448Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\eastmondr@bennettjones.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\eastmondr@bennettjones.com
+    - ID: "76a92454-c8be-479b-b260-26aebced5a1a"
+      Hint: Base Partial Design
+      Value: "{38736743-D0E5-47A7-8E47-03DEAEBD8F68}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7bf35118-c02d-4273-b7f0-f16d52704179"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\eastmondr@bennettjones.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231222T143920Z

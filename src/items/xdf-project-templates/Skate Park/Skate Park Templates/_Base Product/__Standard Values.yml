@@ -1,0 +1,44 @@
+﻿---
+ID: "1ef3fe7e-2c84-4f4e-918f-703275e5db25"
+Parent: "485ca85f-6dd4-4ac3-8734-1fa1f7362846"
+Template: "485ca85f-6dd4-4ac3-8734-1fa1f7362846"
+Path: /sitecore/templates/Project/Skate Park/Skate Park Templates/_Base Product/__Standard Values
+SharedFields:
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{6A59E332-0CD3-4658-8D60-A6888BFABC29}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "08bad915-3890-4def-8505-4c09177b712b"
+      Hint: SKU
+      Value: $id
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231219T183200Z
+    - ID: "39f940f1-1a8c-4f21-8584-95f89d77cf41"
+      Hint: Highlights
+      Value: Whether you’re a beginner or a pro, this will work well for you.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\eastmondr@bennettjones.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\eastmondr@bennettjones.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5fb243a5-d4b7-4c9e-bd24-380ead8f0d0d"
+    - ID: "a9416d5f-12a4-4adb-8ee7-2694932bee4b"
+      Hint: Price
+      Value: $100
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\eastmondr@bennettjones.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231220T152338Z

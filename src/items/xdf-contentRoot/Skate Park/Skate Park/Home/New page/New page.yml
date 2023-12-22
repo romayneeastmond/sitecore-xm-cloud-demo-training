@@ -1,0 +1,80 @@
+﻿---
+ID: "b3bf58df-8f24-49b0-a670-fdc53c345f1b"
+Parent: "46517ba5-8def-4843-9c13-6ab6d4cbad67"
+Template: "ab1b6e9e-f3bc-4630-a8cd-cc8747cc830c"
+Path: /sitecore/content/Skate Park/Skate Park/Home/New page/New page
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6A59E332-0CD3-4658-8D60-A6888BFABC29}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{27F5FC42-4E3A-4D39-BB43-47796AD3B686}" />
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Ordercloud9
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "08bad915-3890-4def-8505-4c09177b712b"
+      Hint: SKU
+      Value: "{B3BF58DF-8F24-49B0-A670-FDC53C345F1B}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231219T185438Z
+    - ID: "4c88aef3-0451-491e-9f3d-3a42fb824386"
+      Hint: Title
+      Value: Ordercloud9
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Ordercloud9
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5dfef413-76e1-425f-8d5c-b7c9219b9885"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\eastmondr@bennettjones.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231219T202645Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "08bad915-3890-4def-8505-4c09177b712b"
+      Hint: SKU
+      Value: "{B3BF58DF-8F24-49B0-A670-FDC53C345F1B}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231220T154709Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{1298E2C1-D216-4995-9A27-F51301A6EF0F}"
+    - ID: "4c88aef3-0451-491e-9f3d-3a42fb824386"
+      Hint: Title
+      Value: Ordercloud9
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Ordercloud9
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3cb1df2a-ef81-4876-a70c-11847d965550"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\eastmondr@bennettjones.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20231220T154709Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231220T154733Z

@@ -1,0 +1,41 @@
+﻿---
+ID: "cb0663a6-6592-4152-aa61-487d9ad1b425"
+Parent: "e3d31f8b-07bd-422b-911e-132bea3f4f9a"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/TAC/Events/Presentation/Available Renderings/TAC
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: |
+    {A7A59359-50ED-49EF-A32B-49C465598A1D}
+    {7F3BDBED-9A12-4103-98B5-6A5EA1391A5F}
+    {A8318A57-0E46-4773-A7C6-C753FD8944CC}
+    {E9084D3B-DD7A-4370-BECF-A829464AFF4A}
+    {D504BADA-3CBA-42D2-B363-8912AC02A579}
+    {0A1E960D-7D0C-4B53-9C24-A1E38234271E}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231222T125427Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\eastmondr@bennettjones.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\eastmondr@bennettjones.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b3947ccc-b5cf-4cd5-8cc3-a30694fe66b2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\eastmondr@bennettjones.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231222T155417Z

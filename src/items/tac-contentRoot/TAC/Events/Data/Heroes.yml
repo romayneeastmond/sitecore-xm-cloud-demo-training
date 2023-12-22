@@ -1,0 +1,23 @@
+﻿---
+ID: "3d239948-28de-4cab-b7b4-7998098d7356"
+Parent: "59626fb4-02ce-4c33-ae7d-4497036ed353"
+Template: "8a5e48f9-521c-4e2a-9c17-9efe5ad6f272"
+Path: /sitecore/content/TAC/Events/Data/Heroes
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231222T145303Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ea9927e7-db37-4bc7-8bc0-cb6738cf2bb1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\eastmondr@bennettjones.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231222T145303Z

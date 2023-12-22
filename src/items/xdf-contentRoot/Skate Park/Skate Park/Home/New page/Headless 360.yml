@@ -1,0 +1,46 @@
+﻿---
+ID: "7a1aba00-9bfe-436f-88d3-bf0aad01600c"
+Parent: "46517ba5-8def-4843-9c13-6ab6d4cbad67"
+Template: "ab1b6e9e-f3bc-4630-a8cd-cc8747cc830c"
+Path: /sitecore/content/Skate Park/Skate Park/Home/New page/Headless 360
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6A59E332-0CD3-4658-8D60-A6888BFABC29}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{E5C421DE-1A19-40AA-8E5E-C479E483AE22}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "08bad915-3890-4def-8505-4c09177b712b"
+      Hint: SKU
+      Value: "{7A1ABA00-9BFE-436F-88D3-BF0AAD01600C}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231220T152508Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{1298E2C1-D216-4995-9A27-F51301A6EF0F}"
+    - ID: "4c88aef3-0451-491e-9f3d-3a42fb824386"
+      Hint: Title
+      Value: Headless 360
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Headless 360
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9ac9a9c-9d06-4b61-8286-1c41ceb20322"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\eastmondr@bennettjones.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231220T152539Z

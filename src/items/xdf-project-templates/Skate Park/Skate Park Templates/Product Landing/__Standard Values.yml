@@ -1,0 +1,30 @@
+﻿---
+ID: "fe60dbd0-3378-4523-838a-61d7ff6bb83b"
+Parent: "b5e486b3-b522-46f7-a8c9-faf51c46d124"
+Template: "b5e486b3-b522-46f7-a8c9-faf51c46d124"
+Path: /sitecore/templates/Project/Skate Park/Skate Park Templates/Product Landing/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {AB1B6E9E-F3BC-4630-A8CD-CC8747CC830C}
+    {83943906-00EF-4D33-97B7-702942F75A00}
+    {08A61982-3BCE-416D-AACD-F8B7EB65AD22}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231219T184518Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "85e159eb-2afb-42be-ade9-513eb8ebe7d1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\eastmondr@bennettjones.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231219T184553Z
